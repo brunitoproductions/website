@@ -2872,6 +2872,9 @@ input, select, textarea {
   			align-items: center;
   			justify-content: center;
 		}
+		p.cs-centertext{
+		text-align:center !important;
+	}
 
 	}
 
@@ -3181,6 +3184,9 @@ input, select, textarea {
 				-ms-transform: translateX(0);
 				transform: translateX(0);
 			}
+		p.cs-centertext{
+			text-align:center !important;
+		}
 
 	}
 
@@ -3385,5 +3391,8 @@ input, select, textarea {
 				width: 50px;
 				height: 34px;
 			}
+		p.cs-centertext{
+			text-align:center !important;
+		}
 
 	}
