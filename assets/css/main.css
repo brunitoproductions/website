@@ -1916,6 +1916,9 @@ input, select, textarea {
 	.cs-textalignleft{
 		text-align:left;
 	}
+	.cs-centertext{
+		text-align:center !important;
+	}
 
 /* Icon */
 
